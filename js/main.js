@@ -18,4 +18,4 @@ $('.main-heading').on('sticky-end', function () {
   });
 });
 
-console.log("I am the new main.js file!")
+console.log("I am the new main.js!")
